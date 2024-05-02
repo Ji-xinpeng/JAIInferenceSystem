@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/JAIInferenceSystem.dir/demo/main.cpp.o CMakeFiles/JAIInferenceSystem.dir/src/net/JNet.cpp.o -o JAIInferenceSystem  -Wl,-rpath,/usr/local/lib /usr/local/lib/libonnxruntime.so /usr/local/lib/libonnxruntime.so.1.8.0 /usr/local/lib/libonnxruntime_providers_shared.so 

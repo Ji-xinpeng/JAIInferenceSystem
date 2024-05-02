@@ -150,6 +150,33 @@ demo/main.cpp.s:
 	$(MAKE) -f CMakeFiles/JAIInferenceSystem.dir/build.make CMakeFiles/JAIInferenceSystem.dir/demo/main.cpp.s
 .PHONY : demo/main.cpp.s
 
+src/net/JNet.o: src/net/JNet.cpp.o
+
+.PHONY : src/net/JNet.o
+
+# target to build an object file
+src/net/JNet.cpp.o:
+	$(MAKE) -f CMakeFiles/JAIInferenceSystem.dir/build.make CMakeFiles/JAIInferenceSystem.dir/src/net/JNet.cpp.o
+.PHONY : src/net/JNet.cpp.o
+
+src/net/JNet.i: src/net/JNet.cpp.i
+
+.PHONY : src/net/JNet.i
+
+# target to preprocess a source file
+src/net/JNet.cpp.i:
+	$(MAKE) -f CMakeFiles/JAIInferenceSystem.dir/build.make CMakeFiles/JAIInferenceSystem.dir/src/net/JNet.cpp.i
+.PHONY : src/net/JNet.cpp.i
+
+src/net/JNet.s: src/net/JNet.cpp.s
+
+.PHONY : src/net/JNet.s
+
+# target to generate assembly for a file
+src/net/JNet.cpp.s:
+	$(MAKE) -f CMakeFiles/JAIInferenceSystem.dir/build.make CMakeFiles/JAIInferenceSystem.dir/src/net/JNet.cpp.s
+.PHONY : src/net/JNet.cpp.s
+
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
@@ -162,6 +189,9 @@ help:
 	@echo "... demo/main.o"
 	@echo "... demo/main.i"
 	@echo "... demo/main.s"
+	@echo "... src/net/JNet.o"
+	@echo "... src/net/JNet.i"
+	@echo "... src/net/JNet.s"
 .PHONY : help
 
 

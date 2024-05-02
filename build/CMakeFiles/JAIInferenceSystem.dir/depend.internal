@@ -3,3 +3,8 @@
 
 CMakeFiles/JAIInferenceSystem.dir/demo/main.cpp.o
  /home/JAIInferenceSystem/demo/main.cpp
+ /home/JAIInferenceSystem/src/config/config.h
+ /home/JAIInferenceSystem/src/net/JNet.h
+CMakeFiles/JAIInferenceSystem.dir/src/net/JNet.cpp.o
+ /home/JAIInferenceSystem/src/net/JNet.cpp
+ /home/JAIInferenceSystem/src/net/JNet.h

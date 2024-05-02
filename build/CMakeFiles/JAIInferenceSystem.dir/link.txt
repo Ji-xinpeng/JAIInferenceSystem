@@ -1,1 +1,1 @@
-/usr/bin/c++     CMakeFiles/JAIInferenceSystem.dir/demo/main.cpp.o  -o JAIInferenceSystem 
+/usr/bin/c++     CMakeFiles/JAIInferenceSystem.dir/demo/main.cpp.o CMakeFiles/JAIInferenceSystem.dir/src/net/JNet.cpp.o  -o JAIInferenceSystem 

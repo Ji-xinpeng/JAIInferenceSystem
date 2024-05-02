@@ -9,6 +9,18 @@
 /home/JAIInferenceSystem/demo/main.cpp
 iostream
 -
-string
+memory
+-
+/home/JAIInferenceSystem/src/net/JNet.h
+-
+/home/JAIInferenceSystem/src/config/config.h
+-
+
+/home/JAIInferenceSystem/src/config/config.h
+
+/home/JAIInferenceSystem/src/net/JNet.h
+iostream
+-
+vector
 -
 

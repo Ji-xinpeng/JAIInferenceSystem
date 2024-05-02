@@ -1,5 +1,6 @@
 file(REMOVE_RECURSE
   "CMakeFiles/JAIInferenceSystem.dir/demo/main.cpp.o"
+  "CMakeFiles/JAIInferenceSystem.dir/src/net/JNet.cpp.o"
   "JAIInferenceSystem"
   "JAIInferenceSystem.pdb"
 )

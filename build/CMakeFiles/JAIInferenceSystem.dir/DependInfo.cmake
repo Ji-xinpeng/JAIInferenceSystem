@@ -5,6 +5,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
   "/home/JAIInferenceSystem/demo/main.cpp" "/home/JAIInferenceSystem/build/CMakeFiles/JAIInferenceSystem.dir/demo/main.cpp.o"
+  "/home/JAIInferenceSystem/src/net/JNet.cpp" "/home/JAIInferenceSystem/build/CMakeFiles/JAIInferenceSystem.dir/src/net/JNet.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 
